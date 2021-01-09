@@ -9,7 +9,7 @@ a{
 
 }
 
-button{
+.btn-outline{
     width: 90% !important;
     background: #e03be0 !important;
     color: #fff!important;
@@ -23,3 +23,8 @@ button{
 .border-secondary{
     border-color: darkgray!important;
 }
+
+.border-start{
+height: 70% !important;
+}
+
