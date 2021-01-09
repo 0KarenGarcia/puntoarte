@@ -1,7 +1,17 @@
 span{
     font-weight:600 !important; 
+   
 }
 
 a{
     color: #e03be0 !important;
+    font-weight:600 !important; 
+
+}
+
+button{
+    width: 70% !important;
+    background: #e03be0 !important;
+    color: #fff!important;
+    border-radius: 0px !important;
 }
